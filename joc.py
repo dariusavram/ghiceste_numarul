@@ -1,9 +1,8 @@
 from random import *
-print("Ghicește numărul: ")
 a=randrange(100)
-k=5
+k=10
 while a:
-    b=int(input())
+    b=int(input("Ghicește numărul: "))
     if b==a:
         print('Ai ghicit numărul!')
         break;
