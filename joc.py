@@ -13,5 +13,5 @@ while a:
     elif k==1:
             print('\nMai ai o viață!')
     if k==0:
-        print("Ai pierdut!")
+        print("Ai pierdut! Numărul căutat era "+str(a))
         break;
