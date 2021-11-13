@@ -1,6 +1,6 @@
 from random import *
-a=randrange(100)
-k=10
+a=randrange(1000)
+k=7
 while a:
     b=int(input("Ghicește numărul: "))
     if b==a:
