@@ -51,7 +51,6 @@ sp = Label(win, text='\n')
 a = randrange(1000)
 c = Entry(win, width=10, borderwidth=5)
 c.grid(row=3, column=1)
-print(a)
 sp1 = Label(win, text='\n')
 sp1.grid(row=4, column=0)
 
